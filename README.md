@@ -1,2 +1,2 @@
-# intro_to_python
-Course materials for "Introduction to Python"
+# Introduction to Python
+This is the public web home of _Introduction to Python_
