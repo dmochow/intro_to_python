@@ -13,4 +13,4 @@ The course is based on the textbook by [Deitel and Deitel](https://deitel.com/in
 * Lecture 7: [NumPy arrays](https://github.com/dmochow/intro_to_python/blob/main/L07.ipynb)
 * Lecture 8: [Strings](https://github.com/dmochow/intro_to_python/blob/main/L08.ipynb)
 * Lecture 9: [Files and exceptions](https://github.com/dmochow/intro_to_python/blob/main/L09.ipynb)
-* Lecture 10: Introduction to object-oriented programming
+* Lecture 10: [Introduction to object-oriented programming](https://github.com/dmochow/intro_to_python/blob/main/L10.ipynb)
