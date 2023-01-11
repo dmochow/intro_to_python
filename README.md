@@ -1,9 +1,9 @@
 # Introduction to Python
-This is the public web home of _Introduction to Python_
+This is the public web home of _Introduction to Python_.
 
 The course is based on the textbook by [Deitel and Deitel](https://deitel.com/intro-to-python-for-computer-science-and-data-science/). 
 
-The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/0135404673)
+The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/0135404673).
 
 ## Course Outline
 * Lecture 1: [Fundamentals of Computing](https://github.com/dmochow/intro_to_python/blob/main/L01.ipynb)
@@ -28,7 +28,11 @@ The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Comput
   * Reading material: Chapter 10 of Deitel and Deitel
 
 ## Homework Assignments
-We will use Google Colab to assign, perform, and submit the programming homework problems. This has the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. On the other hand, you _must_ create a Google Email account with the following syntax: <br>
+We will use Google Colab to assign, perform, and submit the programming homework problems. Google Colab is a wonderful resource, with the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. You do not even need to have Python installed on your machine.
+
+Please watch the introductory video provided by Google [here](https://colab.research.google.com/). 
+
+On the other hand, you _must_ create a Google Email account with the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME@gmail.com``` <br>
 If the above address is somehow taken (?!), please get in touch with the instructor. 
 
