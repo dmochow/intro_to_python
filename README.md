@@ -40,9 +40,9 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 ```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
 
 ## Course evaluation 
-* Homework assignments (10) 40%
-* Midterm exam 30%
-* Final exam 30%
+* Homework assignments (10): 40%
+* Midterm exam: 30%
+* Final exam: 30%
 
 
 ## Expected schedule
