@@ -1,7 +1,7 @@
 # Introduction to Python
-This is the public web home of _Introduction to Python_, a 14-week, introductory computer programming course being delivered to first-year engineering students at the [City College of New York's Biomedical Engineering Department](https://www.ccny.cuny.edu/bme). 
+This is the public web home of _Introduction to Python_, a 14-week, introductory computer programming course being delivered to first-year engineering students at the [City College of New York's Biomedical Engineering Department](https://www.ccny.cuny.edu/bme). The objective of the course is to provide students with the principles of computer software as well as hands-on, practical experience with composing high-level code with modern-day, cloud-based tools. 
 
-All course material is being made available here in case that other students and instructors may find them to be useful. 
+_All course material is being made available here in case that other students and instructors may find them to be useful_
 
 The course is based on the textbook by [Deitel and Deitel](https://deitel.com/intro-to-python-for-computer-science-and-data-science/). 
 
