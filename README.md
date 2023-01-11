@@ -7,7 +7,7 @@ The course is based on the textbook by [Deitel and Deitel](https://deitel.com/in
 
 The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/0135404673).
 
-## Course Outline and Accompanying Jupyter Notebooks (slides)
+## Course outline and accompanying Jupyter notebooks (slides)
 * Lecture 1: [Fundamentals of Computing](https://github.com/dmochow/intro_to_python/blob/main/L01.ipynb)
   * Reading material: Chapter 1 of Deitel and Deitel
 * Lecture 2: [Introduction to Python Programming](https://github.com/dmochow/intro_to_python/blob/main/L02.ipynb)
