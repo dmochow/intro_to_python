@@ -5,6 +5,7 @@ The course is based on the textbook by [Deitel and Deitel](https://deitel.com/in
 
 ## Course Outline
 * Lecture 1: [Fundamentals of Computing](https://github.com/dmochow/intro_to_python/blob/main/L01.ipynb)
+  * Reading material: Chapter 1 of Deitel and Deitel
 * Lecture 2: [Introduction to Python Programming](https://github.com/dmochow/intro_to_python/blob/main/L02.ipynb)
 * Lecture 3: [Control statements and program development](https://github.com/dmochow/intro_to_python/blob/main/L03.ipynb)
 * Lecture 4: [Functions](https://github.com/dmochow/intro_to_python/blob/main/L04.ipynb)
@@ -14,3 +15,6 @@ The course is based on the textbook by [Deitel and Deitel](https://deitel.com/in
 * Lecture 8: [Strings](https://github.com/dmochow/intro_to_python/blob/main/L08.ipynb)
 * Lecture 9: [Files and exceptions](https://github.com/dmochow/intro_to_python/blob/main/L09.ipynb)
 * Lecture 10: [Introduction to object-oriented programming](https://github.com/dmochow/intro_to_python/blob/main/L10.ipynb)
+
+
+
