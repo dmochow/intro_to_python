@@ -37,7 +37,7 @@ On the other hand, you _must_ create a Google Email account with the following s
 If the above address is somehow taken (?!), please get in touch with the instructor. 
 
 The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
-```bme105_2023_FIRSTNAME_LASTNAME_HW.ipynb``` <br>
+```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
 
 ## Expected schedule
 ### _Introductory lectures_
