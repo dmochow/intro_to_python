@@ -69,10 +69,18 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 * Week 14: Review lecture
 
 ### _Final exam_
-* Week 15: Final Exam (on the computer, in class)
+* Week 15: Final Exam (cumulative, on the computer, in class)
 
 ## Course policy
 * All students must bring a laptop to class. This will allow you to follow along with the presented code snippets.
 * All students must read the reading material in advance of the lecture.
 * All students must complete the homework assignments on their own. However, discussion of solutions with others is encouraged!
+
+## Advice for course success
+Success in this class (and in general for computer programming) is achieved by:
+* starting early
+* getting your hands dirty
+* approaching software with controlled but reckless abandon
+* _testing_ every line that you write
+* designing your programs _before_ you write them
 
