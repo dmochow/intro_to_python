@@ -53,14 +53,17 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 * Week 8: Lecture 7 Part 1 (Dictionaries)
 * Week 9: Lecture 7 Part 2 (Dictionaries)
 
-### Midterm Week
+### _Midterm_
 * Week 10: Midterm Exam
 
-### More advanced lectures
+### _Advanced lectures_
 * Week 11: Lecture 8 (Strings)
 * Week 12: Lecture 9 (Files)
 * Week 13: Lecture 10 (Intro to Object Oriented)
 * Week 14: Review lecture
 
-
+## Course policy
+* All students must bring a laptop to class. This will allow you to follow along with the presented code snippets.
+* All students must read the reading material in advance of the lecture.
+* All students must complete the homework assignments on their own. However, discussion of solutions with others is encouraged!
 
