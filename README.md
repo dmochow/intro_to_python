@@ -39,5 +39,28 @@ If the above address is somehow taken (?!), please get in touch with the instruc
 The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME_HW.ipynb``` <br>
 
+## Expected schedule
+### _Introductory lectures_
+* Week 1: Lecture 1 (Intro to computing)
+* Week 2: Lecture 2 (Intro to Python)
+* Week 3: Lecture 3 (Control flow)
+
+### _Core lectures_
+* Week 4: Lecture 4 (Functions)
+* Week 5: Lecture 5 Part 1 (Lists)
+* Week 6: Lecture 5 Part 2 (Lists)
+* Week 7: Lecture 6 (Numpy Arrays)
+* Week 8: Lecture 7 Part 1 (Dictionaries)
+* Week 9: Lecture 7 Part 2 (Dictionaries)
+
+### Midterm Week
+* Week 10: Midterm Exam
+
+### More advanced lectures
+* Week 11: Lecture 8 (Strings)
+* Week 12: Lecture 9 (Files)
+* Week 13: Lecture 10 (Intro to Object Oriented)
+* Week 14: Review lecture
+
 
 
