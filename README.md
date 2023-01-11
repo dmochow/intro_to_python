@@ -28,11 +28,11 @@ The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Comput
   * Reading material: Chapter 10 of Deitel and Deitel
 
 ## Homework Assignments
-We will use Google Colab to assign, perform, and submit the programming homework problems. This has the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. On the other hand, you _must_ create a Google Email account with the following syntax:
+We will use Google Colab to assign, perform, and submit the programming homework problems. This has the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. On the other hand, you _must_ create a Google Email account with the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME@gmail.com```
 If the above address is somehow taken (?!), please get in touch with the instructor. 
 
-The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax:
+The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME_HW.ipynb```
 
 
