@@ -59,13 +59,13 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 * Week 8: Lecture 7 Part 1 (Dictionaries)
 * Week 9: Lecture 7 Part 2 (Dictionaries)
 
-### _Midterm exan_
+### _Midterm exam_
 * Week 10: Midterm Exam (on the computer, in class)
 
 ### _Advanced lectures_
 * Week 11: Lecture 8 (Strings)
 * Week 12: Lecture 9 (Files)
-* Week 13: Lecture 10 (Intro to Object Oriented)
+* Week 13: Lecture 10 (Intro to Object Oriented Programming)
 * Week 14: Review lecture
 
 ### _Final exam_
