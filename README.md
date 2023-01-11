@@ -28,7 +28,7 @@ The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Comput
   * Reading material: Chapter 10 of Deitel and Deitel
 
 ## Homework Assignments
-We will use Google Colab to assign, perform, and submit the programming homework problems. Google Colab is a wonderful resource, with the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. You do not even need to have Python installed on your machine.
+We will use _Google Colab_ to assign, perform, and submit the programming homework problems. Google Colab is a wonderful resource, with the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. You do not even need to have Python installed on your machine.
 
 Please watch the introductory video provided by Google [here](https://colab.research.google.com/). 
 
@@ -38,6 +38,12 @@ If the above address is somehow taken (?!), please get in touch with the instruc
 
 The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
+
+## Course evaluation 
+* Homework assignments (10) 40%
+* Midterm exam 30%
+* Final exam 30%
+
 
 ## Expected schedule
 ### _Introductory lectures_
@@ -53,14 +59,17 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 * Week 8: Lecture 7 Part 1 (Dictionaries)
 * Week 9: Lecture 7 Part 2 (Dictionaries)
 
-### _Midterm_
-* Week 10: Midterm Exam
+### _Midterm exan_
+* Week 10: Midterm Exam (on the computer, in class)
 
 ### _Advanced lectures_
 * Week 11: Lecture 8 (Strings)
 * Week 12: Lecture 9 (Files)
 * Week 13: Lecture 10 (Intro to Object Oriented)
 * Week 14: Review lecture
+
+### _Final exam_
+* Week 15: Final Exam (on the computer, in class)
 
 ## Course policy
 * All students must bring a laptop to class. This will allow you to follow along with the presented code snippets.
