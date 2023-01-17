@@ -45,6 +45,7 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 [Homework 2](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework2.ipynb) <br>
 [Homework 3](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework3.ipynb) <br>
 [Homework 4](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework4.ipynb) <br>
+[Homework 5](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework5.ipynb) <br>
 
 ## Course evaluation 
 * Homework assignments (10): 40%
