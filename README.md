@@ -41,6 +41,7 @@ If the above address is somehow taken (?!), please get in touch with the instruc
 The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
 
+[Homework 1](https://github.com/dmochow/intro_to_python/blob/main/bme 105 HW1.pdf) <br>
 [Homework 2](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework2.ipynb) <br>
 [Homework 3](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework3.ipynb) <br>
 [Homework 4](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework4.ipynb) <br>
