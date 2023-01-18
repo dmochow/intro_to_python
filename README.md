@@ -28,25 +28,25 @@ The course is based on the textbook by [Deitel and Deitel](https://deitel.com/in
   * Reading material: Chapter 10 of Deitel and Deitel
 
 ## Homework Assignments
-We will use _Google Colab_ to assign, perform, and submit the programming homework problems. Google Colab is a wonderful resource, with the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. You do not even need to have Python installed on your machine.
+We will use _Google Colab_ to assign, perform, and submit the programming homework problems. Google Colab is a wonderful resource, with the benefit of not requiring you to install any specific distribution of Python, or any specific libraries. 
 
 Please watch the introductory video provided by Google [here](https://colab.research.google.com/). 
 
-On the other hand, you _must_ create a Google Email account with the following syntax: <br>
+If you are registered in the course, you _must_ create a Google Email account with the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME@gmail.com``` <br>
 If the above address is somehow taken (?!), please get in touch with the instructor. 
 
 The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
 
-[Homework 1 Assignment PDF](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework1.pdf)
-[Homework 2 Google Colab Notebook](https://drive.google.com/file/d/1wNRHdC64N0IWSDy2qnjVwNNuLOoIY4H8/view?usp=sharing)
-[Homework 3 Google Colab Notebook](https://drive.google.com/file/d/1avBRBCUeTyyjaike4r0LRJDzG052nIEx/view?usp=sharing)
-[Homework 4 Google Colab Notebook](https://drive.google.com/file/d/1gRoWBa6boGCMmypxdqmZyah9k6-8yyS1/view?usp=sharing)
-[Homework 5 Google Colab Notebook](https://drive.google.com/file/d/1t_NUevMGGOOr1imFECRIgwRNN9v6kRrJ/view?usp=sharing)
-[Homework 6 Google Colab Notebook]()
-[Homework 7 Google Colab Notebook]()
-[Homework 8 Google Colab Notebook]()
+[Homework 1 Assignment PDF](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework1.pdf) <br>
+[Homework 2 Google Colab Notebook](https://drive.google.com/file/d/1wNRHdC64N0IWSDy2qnjVwNNuLOoIY4H8/view?usp=sharing) <br>
+[Homework 3 Google Colab Notebook](https://drive.google.com/file/d/1avBRBCUeTyyjaike4r0LRJDzG052nIEx/view?usp=sharing) <br>
+[Homework 4 Google Colab Notebook](https://drive.google.com/file/d/1gRoWBa6boGCMmypxdqmZyah9k6-8yyS1/view?usp=sharing) <br>
+[Homework 5 Google Colab Notebook](https://drive.google.com/file/d/1t_NUevMGGOOr1imFECRIgwRNN9v6kRrJ/view?usp=sharing) <br>
+[Homework 6 Google Colab Notebook]() <br>
+[Homework 7 Google Colab Notebook]() <br>
+[Homework 8 Google Colab Notebook]() <br>
 
 
 ## Course evaluation 
