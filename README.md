@@ -39,18 +39,18 @@ If the above address is somehow taken (?!), please get in touch with the instruc
 The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
 
-[Homework 1 Google Colab Notebook](https://colab.research.google.com/drive/1nToNu90mGsxcosGtB3Fc2VKI6SyDG3F6?usp=sharing)<br>
+[Homework 1 Google Colab Notebook](https://colab.research.google.com/drive/1nToNu90mGsxcosGtB3Fc2VKI6SyDG3F6?usp=sharing) <br>
 [Homework 2 Google Colab Notebook](https://colab.research.google.com/drive/1ROYdhvy0smNvFipzyu7_78cvc7q_ZajK?usp=sharing) <br>
 [Homework 3 Google Colab Notebook](https://colab.research.google.com/drive/1Uub_5HzJmte6hoTyFhWR_IPLZujlTItq?usp=sharing) <br>
 [Homework 4 Google Colab Notebook](https://colab.research.google.com/drive/1cdHixVuVuoo6v0u6moq34L7OgYLOpShy?usp=sharing) <br>
 [Homework 5 Google Colab Notebook](https://colab.research.google.com/drive/1Nx6aTAWDCPormff0XS8tSHKSf1LoKEZJ?usp=sharing) <br>
-[Homework 6 Google Colab Notebook]() <br>
+[Homework 6 Google Colab Notebook](https://colab.research.google.com/drive/1koNhmCIgTkL7Qhy3PCL_m5WNvxQXNpl4?usp=sharing) <br>
 [Homework 7 Google Colab Notebook]() <br>
 [Homework 8 Google Colab Notebook]() <br>
 
 
 ## Course evaluation 
-* Homework assignments (10): 40%
+* Homework assignments (8): 40%
 * Midterm exam: 30%
 * Final exam: 30%
 
@@ -88,8 +88,6 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 ## Advice for course success
 Success in this class (and in general for computer programming) is achieved by:
 * starting early
-* getting your hands dirty
-* approaching software with controlled but reckless abandon
-* _testing_ every line that you write
+* _testing_ every line of code that you write
 * designing your programs _before_ you write them
 
