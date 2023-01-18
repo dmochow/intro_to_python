@@ -3,9 +3,7 @@ This is the public web home of _Introduction to Python_, a 14-week, introductory
 
 _All course material is being made available here in case that other students and instructors may find them to be useful_
 
-The course is based on the textbook by [Deitel and Deitel](https://deitel.com/intro-to-python-for-computer-science-and-data-science/). 
-
-The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/0135404673).
+The course is based on the textbook by [Deitel and Deitel](https://deitel.com/intro-to-python-for-computer-science-and-data-science/). The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/0135404673).
 
 ## Course outline and accompanying Jupyter notebooks (slides)
 * Lecture 1: [Fundamentals of Computing](https://github.com/dmochow/intro_to_python/blob/main/L01.ipynb)
@@ -41,17 +39,20 @@ If the above address is somehow taken (?!), please get in touch with the instruc
 The solution to Homework Assignment 1 will then be submitted by _sharing_ your Google Colab Notebook with the course instructor (email TBA). You will need to name your notebooks according to the following syntax: <br>
 ```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
 
-[Homework 1](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework1.pdf) <br>
-[Homework 2](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework2.ipynb) <br>
-[Homework 3](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework3.ipynb) <br>
-[Homework 4](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework4.ipynb) <br>
-[Homework 5](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework5.ipynb) <br>
+[Homework 1 Assignment PDF](https://github.com/dmochow/intro_to_python/blob/main/bme_105_homework1.pdf)
+[Homework 2 Google Colab Notebook](https://drive.google.com/file/d/1wNRHdC64N0IWSDy2qnjVwNNuLOoIY4H8/view?usp=sharing)
+[Homework 3 Google Colab Notebook](https://drive.google.com/file/d/1avBRBCUeTyyjaike4r0LRJDzG052nIEx/view?usp=sharing)
+[Homework 4 Google Colab Notebook](https://drive.google.com/file/d/1gRoWBa6boGCMmypxdqmZyah9k6-8yyS1/view?usp=sharing)
+[Homework 5 Google Colab Notebook](https://drive.google.com/file/d/1t_NUevMGGOOr1imFECRIgwRNN9v6kRrJ/view?usp=sharing)
+[Homework 6 Google Colab Notebook]()
+[Homework 7 Google Colab Notebook]()
+[Homework 8 Google Colab Notebook]()
+
 
 ## Course evaluation 
 * Homework assignments (10): 40%
 * Midterm exam: 30%
 * Final exam: 30%
-
 
 ## Expected schedule
 ### _Introductory lectures_
