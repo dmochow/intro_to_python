@@ -5,7 +5,7 @@ _All course material is being made available here in case that other students an
 
 The course is based on the textbook by [Deitel and Deitel](https://deitel.com/intro-to-python-for-computer-science-and-data-science/). The textbook is available on [Amazon](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/0135404673).
 
-## Course outline and accompanying Jupyter notebooks (slides)
+## Course outline and accompanying Jupyter notebooks (slides enabled with [RISE extension](https://rise.readthedocs.io/en/stable/#))
 * Lecture 1: [Fundamentals of Computing](https://github.com/dmochow/intro_to_python/blob/main/L01.ipynb)
   * Reading material: Chapter 1 of Deitel and Deitel
 * Lecture 2: [Introduction to Python Programming](https://github.com/dmochow/intro_to_python/blob/main/L02.ipynb)
@@ -64,9 +64,9 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 * Week 4: Lecture 4 (Functions)
 * Week 5: Lecture 5 Part 1 (Lists)
 * Week 6: Lecture 5 Part 2 (Lists)
-* Week 7: Lecture 6 (Numpy Arrays)
-* Week 8: Lecture 7 Part 1 (Dictionaries)
-* Week 9: Lecture 7 Part 2 (Dictionaries)
+* Week 7: Lecture 6 Part 1 (Dictionaries)
+* Week 8: Lecture 6 Part 2 (Dictionaries)
+* Week 9: Lecture 7 (Numpy Arrays)
 
 ### _Midterm exam_
 * Week 10: Midterm Exam (on the computer, in class)
