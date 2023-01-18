@@ -41,9 +41,9 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 
 [Homework 1 Google Colab Notebook](https://colab.research.google.com/drive/1nToNu90mGsxcosGtB3Fc2VKI6SyDG3F6?usp=sharing)<br>
 [Homework 2 Google Colab Notebook](https://colab.research.google.com/drive/1ROYdhvy0smNvFipzyu7_78cvc7q_ZajK?usp=sharing) <br>
-[Homework 3 Google Colab Notebook](https://drive.google.com/file/d/1avBRBCUeTyyjaike4r0LRJDzG052nIEx/view?usp=sharing) <br>
-[Homework 4 Google Colab Notebook](https://drive.google.com/file/d/1gRoWBa6boGCMmypxdqmZyah9k6-8yyS1/view?usp=sharing) <br>
-[Homework 5 Google Colab Notebook](https://drive.google.com/file/d/1t_NUevMGGOOr1imFECRIgwRNN9v6kRrJ/view?usp=sharing) <br>
+[Homework 3 Google Colab Notebook](https://colab.research.google.com/drive/1Uub_5HzJmte6hoTyFhWR_IPLZujlTItq?usp=sharing) <br>
+[Homework 4 Google Colab Notebook](https://colab.research.google.com/drive/1cdHixVuVuoo6v0u6moq34L7OgYLOpShy?usp=sharing) <br>
+[Homework 5 Google Colab Notebook](https://colab.research.google.com/drive/1Nx6aTAWDCPormff0XS8tSHKSf1LoKEZJ?usp=sharing) <br>
 [Homework 6 Google Colab Notebook]() <br>
 [Homework 7 Google Colab Notebook]() <br>
 [Homework 8 Google Colab Notebook]() <br>
