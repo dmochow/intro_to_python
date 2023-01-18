@@ -40,7 +40,7 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 ```bme105_2023_FIRSTNAME_LASTNAME_HW1.ipynb``` <br>
 
 [Homework 1 Google Colab Notebook](https://colab.research.google.com/drive/1nToNu90mGsxcosGtB3Fc2VKI6SyDG3F6?usp=sharing)<br>
-[Homework 2 Google Colab Notebook](https://drive.google.com/file/d/1wNRHdC64N0IWSDy2qnjVwNNuLOoIY4H8/view?usp=sharing) <br>
+[Homework 2 Google Colab Notebook](https://colab.research.google.com/drive/1ROYdhvy0smNvFipzyu7_78cvc7q_ZajK?usp=sharing) <br>
 [Homework 3 Google Colab Notebook](https://drive.google.com/file/d/1avBRBCUeTyyjaike4r0LRJDzG052nIEx/view?usp=sharing) <br>
 [Homework 4 Google Colab Notebook](https://drive.google.com/file/d/1gRoWBa6boGCMmypxdqmZyah9k6-8yyS1/view?usp=sharing) <br>
 [Homework 5 Google Colab Notebook](https://drive.google.com/file/d/1t_NUevMGGOOr1imFECRIgwRNN9v6kRrJ/view?usp=sharing) <br>
