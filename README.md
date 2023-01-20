@@ -46,7 +46,7 @@ The solution to Homework Assignment 1 will then be submitted by _sharing_ your G
 [Homework 5 Google Colab Notebook](https://colab.research.google.com/drive/1Nx6aTAWDCPormff0XS8tSHKSf1LoKEZJ?usp=sharing) <br>
 [Homework 6 Google Colab Notebook](https://colab.research.google.com/drive/1koNhmCIgTkL7Qhy3PCL_m5WNvxQXNpl4?usp=sharing) <br>
 [Homework 7 Google Colab Notebook](https://colab.research.google.com/drive/1iADdHHPjzxaRUwsi40pHCL9iACEGbI2p?usp=sharing) <br>
-[Homework 8 Google Colab Notebook]() <br>
+[Homework 8 Google Colab Notebook](https://colab.research.google.com/drive/1uUC4CaGj1vVaaAqc8vyAl4dDRkfSIzE9?usp=sharing) <br>
 
 
 ## Course evaluation 
