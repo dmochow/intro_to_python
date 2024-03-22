@@ -20,6 +20,7 @@ The course is based on the textbook by [Deitel and Deitel](https://deitel.com/in
   * Reading material: Chapter 6 of Deitel and Deitel
 * Lecture 7: [NumPy arrays](https://github.com/dmochow/intro_to_python/blob/main/L07.ipynb)
   * Reading material: Chapter 7 of Deitel and Deitel
+  * Colab notebook with MRI demo(https://colab.research.google.com/drive/1wonGKtlV2Y6kyyjnWsKSc1mCy4vU3TSw?usp=sharing)
 * Lecture 8: [Strings](https://github.com/dmochow/intro_to_python/blob/main/L08.ipynb)
   * Reading material: Chapter 8 of Deitel and Deitel
 * Lecture 9: [Files and exceptions](https://github.com/dmochow/intro_to_python/blob/main/L09.ipynb)
